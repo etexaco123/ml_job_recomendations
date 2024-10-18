@@ -1,2 +1,2 @@
-# ml_job_recomendations
+# Linkedin ML job recomendations
 ML job recommendation on Linkedin
